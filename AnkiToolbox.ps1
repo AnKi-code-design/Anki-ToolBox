@@ -10,7 +10,7 @@
     Anki's Windows Toolbox - FPS Boost / Low Latency / Network Optimization
 .DESCRIPTION
     Menu-driven PowerShell toolbox. Run remotely with:
-    irm yoururl.com/win | iex
+    irm ankitool.com/win | iex
 .NOTES
     - Creates a System Restore point before applying tweaks (recommended: don't skip it)
     - Every tweak function is independent and can be toggled/reverted individually
